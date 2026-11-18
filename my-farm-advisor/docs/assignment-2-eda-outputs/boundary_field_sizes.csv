@@ -1,0 +1,31 @@
+field_id,field_slug,area_acres,area_ha_est,area_conversion_delta_acres,country,state,state_fips,county,crop_attribute,source,csb_id,grower_slug,farm_slug,display_name,state_group,county_group
+il-r1,il-r1,418.1,169.2,-0.0016599999999584725,US,IL,17,Iroquois,Corn,usda_csb_fiboa,171623004846187,assignment-illinois-grower,illinois-demo-farm,Default Farm,IL,Iroquois
+il-r2,il-r2,320.9,129.9,-0.08939500000002454,US,IL,17,Iroquois,Soybeans,usda_csb_fiboa,171623004846849,assignment-illinois-grower,illinois-demo-farm,Default Farm,IL,Iroquois
+il-r3,il-r3,270.9,109.6,0.07292000000001053,US,IL,17,Iroquois,Corn,usda_csb_fiboa,171623004847010,assignment-illinois-grower,illinois-demo-farm,Default Farm,IL,Iroquois
+il-a1,il-a1,373.0,150.9,0.11855500000001484,US,IL,17,Iroquois,Corn,usda_csb_fiboa,171623004847710,assignment-illinois-grower,illinois-demo-farm,Default Farm,IL,Iroquois
+il-a2,il-a2,365.2,147.8,-0.021190000000046894,US,IL,17,Iroquois,Corn,usda_csb_fiboa,171623004847684,assignment-illinois-grower,illinois-demo-farm,Default Farm,IL,Iroquois
+il-a3,il-a3,351.4,142.2,0.016689999999982774,US,IL,17,Iroquois,Corn,usda_csb_fiboa,171623004847708,assignment-illinois-grower,illinois-demo-farm,Default Farm,IL,Iroquois
+il-a4,il-a4,284.2,115.0,0.02924999999999045,US,IL,17,Iroquois,Corn,usda_csb_fiboa,171623004846543,assignment-illinois-grower,illinois-demo-farm,Default Farm,IL,Iroquois
+il-a5,il-a5,273.0,110.5,-0.051024999999981446,US,IL,17,Iroquois,Corn,usda_csb_fiboa,171623004846880,assignment-illinois-grower,illinois-demo-farm,Default Farm,IL,Iroquois
+il-a6,il-a6,265.7,107.5,0.062124999999980446,US,IL,17,Iroquois,Corn,usda_csb_fiboa,171623004847492,assignment-illinois-grower,illinois-demo-farm,Default Farm,IL,Iroquois
+il-a7,il-a7,229.0,92.7,-0.06633500000000936,US,IL,17,Iroquois,Soybeans,usda_csb_fiboa,171623004846453,assignment-illinois-grower,illinois-demo-farm,Default Farm,IL,Iroquois
+ia-r1,ia-r1,331.9,134.3,0.0379849999999351,US,IA,19,Kossuth,Soybeans,usda_csb_fiboa,191623004195643,assignment-iowa-grower,iowa-demo-farm,Default Farm,IA,"Kossuth, Palo Alto"
+ia-r2,ia-r2,327.0,132.3,0.08008499999999685,US,IA,19,Kossuth,Corn,usda_csb_fiboa,191623004194922,assignment-iowa-grower,iowa-demo-farm,Default Farm,IA,"Kossuth, Palo Alto"
+ia-r3,ia-r3,296.7,120.1,-0.0731049999999982,US,IA,19,Kossuth,Corn,usda_csb_fiboa,191623004195581,assignment-iowa-grower,iowa-demo-farm,Default Farm,IA,"Kossuth, Palo Alto"
+ia-a1,ia-a1,677.9,274.3,0.09098499999993237,US,IA,19,Palo Alto,Corn,usda_csb_fiboa,191623000658271,assignment-iowa-grower,iowa-demo-farm,Default Farm,IA,"Kossuth, Palo Alto"
+ia-a2,ia-a2,404.9,163.9,-0.10509500000000571,US,IA,19,Palo Alto,Soybeans,usda_csb_fiboa,191623000657714,assignment-iowa-grower,iowa-demo-farm,Default Farm,IA,"Kossuth, Palo Alto"
+ia-a3,ia-a3,394.3,159.6,-0.07957999999996446,US,IA,19,Palo Alto,Soybeans,usda_csb_fiboa,191623000657526,assignment-iowa-grower,iowa-demo-farm,Default Farm,IA,"Kossuth, Palo Alto"
+ia-a4,ia-a4,331.8,134.3,-0.062015000000030795,US,IA,19,Palo Alto,Corn,usda_csb_fiboa,191623000657527,assignment-iowa-grower,iowa-demo-farm,Default Farm,IA,"Kossuth, Palo Alto"
+ia-a5,ia-a5,316.6,128.1,0.05849500000005037,US,IA,19,Palo Alto,Soybeans,usda_csb_fiboa,191623000657855,assignment-iowa-grower,iowa-demo-farm,Default Farm,IA,"Kossuth, Palo Alto"
+ia-a6,ia-a6,316.3,128.0,0.0056000000000153705,US,IA,19,Palo Alto,Soybeans,usda_csb_fiboa,191623000658123,assignment-iowa-grower,iowa-demo-farm,Default Farm,IA,"Kossuth, Palo Alto"
+ia-a7,ia-a7,299.1,121.0,0.10295000000002119,US,IA,19,Palo Alto,Corn,usda_csb_fiboa,191623000657980,assignment-iowa-grower,iowa-demo-farm,Default Farm,IA,"Kossuth, Palo Alto"
+ne-r1,ne-r1,387.6,156.8,0.1393600000000106,US,NE,31,Dawson,Corn,usda_csb_fiboa,311623008352554,assignment-nebraska-grower,nebraska-demo-farm,Default Farm,NE,Dawson
+ne-r2,ne-r2,348.0,140.8,0.07615999999995893,US,NE,31,Dawson,Corn,usda_csb_fiboa,311623008353708,assignment-nebraska-grower,nebraska-demo-farm,Default Farm,NE,Dawson
+ne-r3,ne-r3,244.6,99.0,-0.033950000000004366,US,NE,31,Dawson,Corn,usda_csb_fiboa,311623008353119,assignment-nebraska-grower,nebraska-demo-farm,Default Farm,NE,Dawson
+ne-r4,ne-r4,209.1,84.6,0.04917000000000371,US,NE,31,Dawson,Corn,usda_csb_fiboa,311623008353154,assignment-nebraska-grower,nebraska-demo-farm,Default Farm,NE,Dawson
+ne-r5,ne-r5,205.3,83.1,-0.044254999999964184,US,NE,31,Dawson,Corn,usda_csb_fiboa,311623008352782,assignment-nebraska-grower,nebraska-demo-farm,Default Farm,NE,Dawson
+ne-r6,ne-r6,178.4,72.2,-0.00980999999998744,US,NE,31,Dawson,Corn,usda_csb_fiboa,311623008353923,assignment-nebraska-grower,nebraska-demo-farm,Default Farm,NE,Dawson
+ne-r7,ne-r7,166.1,67.2,0.04543999999998505,US,NE,31,Dawson,Corn,usda_csb_fiboa,311623008353710,assignment-nebraska-grower,nebraska-demo-farm,Default Farm,NE,Dawson
+ne-r8,ne-r8,158.5,64.1,0.10569500000002563,US,NE,31,Dawson,Corn,usda_csb_fiboa,311623008352683,assignment-nebraska-grower,nebraska-demo-farm,Default Farm,NE,Dawson
+ne-r9,ne-r9,157.9,63.9,-9.499999998752173e-05,US,NE,31,Dawson,Corn,usda_csb_fiboa,311623008352434,assignment-nebraska-grower,nebraska-demo-farm,Default Farm,NE,Dawson
+ne-r10,ne-r10,151.4,61.3,-0.07536499999997659,US,NE,31,Dawson,Soybeans,usda_csb_fiboa,311623008354129,assignment-nebraska-grower,nebraska-demo-farm,Default Farm,NE,Dawson

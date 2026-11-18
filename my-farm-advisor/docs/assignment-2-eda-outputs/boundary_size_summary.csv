@@ -1,0 +1,4 @@
+grower_slug,farm_slug,boundary_state,field_count,total_acres,median_acres,min_acres,max_acres,range_acres
+assignment-illinois-grower,illinois-demo-farm,IL,10,3151.4,302.55,229.0,418.1,189.1
+assignment-iowa-grower,iowa-demo-farm,IA,10,3696.5,329.4,296.7,677.9,381.2
+assignment-nebraska-grower,nebraska-demo-farm,NE,10,2206.9,191.85,151.4,387.6,236.2
